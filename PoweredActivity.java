@@ -1,4 +1,4 @@
-
+//this class is useless, I added it to have a subclass for activites, but I'm not sure how to put it to use.
 /**
  * Write a description of class PoweredActivity here.
  *

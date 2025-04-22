@@ -1,4 +1,4 @@
-
+//this is the equipment class. Each object has a brand and a model assigned to it.
 /**
  * Write a description of class Equipment here.
  *

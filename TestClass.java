@@ -3,6 +3,7 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+//the test class is a bit funky. I wasn't sure what to add and how to test.
 /**
  * The test class TestClass.
  *

@@ -1,4 +1,4 @@
-
+//this is all the transportation modes an athlete can use during their activity
 /**
  * Enumeration class TransportationMode - write a description of the enum class here
  *

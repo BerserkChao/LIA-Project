@@ -7,6 +7,7 @@ import java.util.List;
  */
 public class ActivUtil
 {
+    //Listing activities by athlete, long names..
     public static void listActivitiesByAthlete(Athlete athlete, List<Activity> activities)
     {
         for(Activity a : activities){
@@ -15,7 +16,7 @@ public class ActivUtil
             }
         }
     }
-    
+    //total distance by activity - not sure if this works
     public static double calcTotalDistance(List <Activity> activities)
     {
         double total = 0;

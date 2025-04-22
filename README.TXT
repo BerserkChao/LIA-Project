@@ -12,3 +12,4 @@ USER INSTRUCTIONS: Just read the methods and classes to make sense of the code. 
 
 
 Eva Adejor - Vanier College
+Honesty: I refered to AI sources for help.
